@@ -143,8 +143,8 @@ The generated visualizations will help you understand how different features, su
 
 # Example visulaizations
 
-![Alt text](C:\Users\Dell\Desktop\kdd\pie.png)
-![Alt text](C:\Users\Dell\Desktop\kdd\healthratings.png)
+![Alt text](pie.png)
+![Alt text](healthratings.png)
 
 ## Data Preparation
 
