@@ -146,7 +146,11 @@ The generated visualizations will help you understand how different features, su
 # Example visulaizations
 
 ![Impact of Mobile Phone Use on Academic Performance](pie.png)
-![Alt text](healthratings.png)
+
+![Health Ratings](healthratings.png)
+
+![Performance Impact vs Mobile Phone Use for Education](healthratings.png)
+
 
 ## Data Preparation
 
