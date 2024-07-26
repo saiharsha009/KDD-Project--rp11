@@ -26,7 +26,9 @@ This project aims to explore how students' health impacts their academic perform
 
 #### Relevant Domain Information (links to two or more articles that relate to your research question; one will most likely come from the link to the data)
 1.https://researchgate.net/publication/377499021_Impact_of_Mobile_Phone_usage_on_School_Students'_Academic_Performance_SSAP_Insights_from_COVID_19 
+
 2.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9651103/
+
 3.https://www.sciencedirect.com/science/article/pii/S2451958821000622
 
 
@@ -143,7 +145,7 @@ The generated visualizations will help you understand how different features, su
 
 # Example visulaizations
 
-![Alt text](pie.png)
+![Impact of Mobile Phone Use on Academic Performance](pie.png)
 ![Alt text](healthratings.png)
 
 ## Data Preparation
