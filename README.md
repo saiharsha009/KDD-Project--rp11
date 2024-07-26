@@ -149,7 +149,7 @@ The generated visualizations will help you understand how different features, su
 
 ![Health Ratings](healthratings.png)
 
-![Performance Impact vs Mobile Phone Use for Education](healthratings.png)
+![Performance Impact vs Mobile Phone Use for Education](Performace.png)
 
 
 ## Data Preparation
