@@ -145,6 +145,10 @@ The generated visualizations will help you understand how different features, su
 
 ![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/pie.png?raw=true)
 ![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/healthratings.png?raw=true)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/Mobileuse.png?raw=true)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/Performance.png?raw=true)
+
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/agedistribution.png?raw=true)
 
 # Deliverable 2
 
@@ -161,9 +165,9 @@ Elbow Plot: This plot visualizes the results of the elbow method, showing how in
 
 - Pairplot: This plot visualizes the clustering results, displaying how students are grouped based on features like Health rating and Age, with different clusters represented in different colors.
 
-![Alt text](C:\Users\Dell\Desktop\kdd\elbow.png)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/elbow.png?raw=true)
 
-![Alt text](C:\Users\Dell\Desktop\kdd\clusters.png)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/clusters.png?raw=true)
 
 ### Converting and Standardizing the "Health rating"
 
@@ -171,7 +175,7 @@ Elbow Plot: This plot visualizes the results of the elbow method, showing how in
 
 After the standazing we plotted a distribution table for the health rating
 
-![Alt text](C:\Users\Dell\Desktop\kdd\standard.png)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/standard.png?raw=true)
 
 ## Splitting Data into Training and Testing Sets
 
@@ -219,8 +223,8 @@ To prepare for model training and evaluation with PyCaret, we start by combining
 
 *6.overall,The analysis of various classification models reveals that none performed exceptionally well across all metrics. The K Neighbors Classifier, while having an accuracy of 50%, struggled with other performance indicators like AUC, precision, and recall. The Extra Trees Classifier and Light Gradient Boosting Machine showed similar limitations, with mixed results in accuracy and AUC. Random Forest achieved a balanced accuracy but had negative Kappa and MCC scores, reflecting issues with prediction agreement. Naive Bayes performed the poorest with an accuracy of only 22%. Overall, KNN emerged as the most effective model, but further tuning and feature improvements are needed to enhance overall performance.
 
-![Alt text](C:\Users\Dell\Desktop\kdd\knnheatmap.png)
-![Alt text](C:\Users\Dell\Desktop\kdd\heatmap.png)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/knnheatmap.png?raw=true)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/heatmap.png?raw=true)
 
 
 ## Known Issues (problems with predictors, reporting, bias, etc.) 
