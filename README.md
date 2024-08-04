@@ -144,7 +144,7 @@ The generated visualizations will help you understand how different features, su
 # Example visulaizations
 
 ![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/pie.png?raw=true)
-![Alt text](C:\Users\Dell\Desktop\kdd\healthratings.png)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/healthratings.png?raw=true)
 
 # Deliverable 2
 
