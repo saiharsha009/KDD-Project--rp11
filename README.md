@@ -145,7 +145,7 @@ The generated visualizations will help you understand how different features, su
 
 ![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/pie.png?raw=true)
 ![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/healthratings.png?raw=true)
-![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/Mobileuse.png?raw=true)
+![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/dis.png?raw=true)
 ![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/Performance.png?raw=true)
 
 ![Alt text](https://github.com/saiharsha009/KDD-Project-Grp11/blob/main/agedistribution.png?raw=true)
